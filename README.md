@@ -1,2 +1,1 @@
-# Newtwa Me
 ### iOS Application
