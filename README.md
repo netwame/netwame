@@ -1,5 +1,5 @@
 ### NetwaMe application links
 
-[Policy](http://ya.ru)
+[Policy](https://netwame.github.io/netwame/policy)
 
-[Support](http://ya.ru)
+[Support](https://netwame.github.io/netwame/support)
